@@ -9,3 +9,4 @@
 /Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Entities/obj/Debug/net8.0/refint/FormulaOne.Entities.dll
 /Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.pdb
 /Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Entities/obj/Debug/net8.0/ref/FormulaOne.Entities.dll
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.sourcelink.json

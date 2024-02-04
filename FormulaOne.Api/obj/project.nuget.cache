@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "MaRLGHjkxP1dBBw40sCQocd+gvWierJduyxY52Wvcxz4dWQu6woOyvkLPNxO+grI61H/rBb/gMo5hRdFICUnsg==",
+  "dgSpecHash": "EDf23JXdg1N9LJRZOdmk/6CYPmgD+1VqsbdQLgkzMVmvhnIYJ1PaeZWDSnJ5dVL8AjXhzmpP/P1fUfMkXQeGgg==",
   "success": true,
   "projectFilePath": "/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Api/FormulaOne.Api.csproj",
   "expectedPackageFiles": [
     "/Users/ferozebasha/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/ferozebasha/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/Users/ferozebasha/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/ferozebasha/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/ferozebasha/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/ferozebasha/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "/Users/ferozebasha/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "/Users/ferozebasha/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.3/microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

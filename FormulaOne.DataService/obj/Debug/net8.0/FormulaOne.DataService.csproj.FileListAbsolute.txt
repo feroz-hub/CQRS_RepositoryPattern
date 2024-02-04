@@ -15,3 +15,4 @@
 /Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.pdb
 /Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.genruntimeconfig.cache
 /Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/obj/Debug/net8.0/ref/FormulaOne.DataService.dll
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.sourcelink.json

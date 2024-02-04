@@ -130,3 +130,6 @@
 /Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Api/obj/Debug/net8.0/FormulaOne.Api.pdb
 /Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Api/obj/Debug/net8.0/FormulaOne.Api.genruntimeconfig.cache
 /Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Api/obj/Debug/net8.0/ref/FormulaOne.Api.dll
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Api/bin/Debug/net8.0/AutoMapper.dll
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Api/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Api/obj/Debug/net8.0/FormulaOne.Api.sourcelink.json
