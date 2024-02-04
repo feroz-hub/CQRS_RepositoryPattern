@@ -1,0 +1,17 @@
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.DataService.deps.json
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.DataService.runtimeconfig.json
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.DataService.dll
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.DataService.pdb
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.Entities.dll
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.Entities.pdb
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.csproj.AssemblyReference.cache
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.AssemblyInfoInputs.cache
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.AssemblyInfo.cs
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.csproj.CoreCompileInputs.cache
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.csproj.CopyComplete
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.dll
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/obj/Debug/net8.0/refint/FormulaOne.DataService.dll
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.pdb
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.genruntimeconfig.cache
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.DataService/obj/Debug/net8.0/ref/FormulaOne.DataService.dll

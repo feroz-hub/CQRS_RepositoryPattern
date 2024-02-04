@@ -1,0 +1,11 @@
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Entities/bin/Debug/net8.0/FormulaOne.Entities.deps.json
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Entities/bin/Debug/net8.0/FormulaOne.Entities.dll
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Entities/bin/Debug/net8.0/FormulaOne.Entities.pdb
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.AssemblyInfoInputs.cache
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.AssemblyInfo.cs
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.csproj.CoreCompileInputs.cache
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.dll
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Entities/obj/Debug/net8.0/refint/FormulaOne.Entities.dll
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.pdb
+/Users/ferozebasha/Desktop/DotnetCoreProjects/FormulaOne.Entities/obj/Debug/net8.0/ref/FormulaOne.Entities.dll
