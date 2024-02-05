@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace FormulaOne.Api.Controllers;
 
-public class AchievementsController(IUnitOfWork unitOfWork, IMapper mapper,IMediator mediator) :BaseController(unitOfWork, mapper)
+public class AchievementsController(IUnitOfWork unitOfWork, IMapper mapper,IMediator mediator) :BaseController(mediator)
 {
     [HttpGet]
     [Route("{driverId:guid}")]
